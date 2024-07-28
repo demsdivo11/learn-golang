@@ -14,4 +14,7 @@ func main() {
 	// cara lain agar tidak perlu memangil tipe data
 	var dems = "Dhemas Divo"
 	fmt.Println(dems)
+	// agar tidak perlu menggunakan kata kunci var maka bisa seperti ini
+	dems2 := "Dhemas Divoegara"
+	fmt.Println(dems2)
 }
