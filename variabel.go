@@ -17,4 +17,13 @@ func main() {
 	// agar tidak perlu menggunakan kata kunci var maka bisa seperti ini
 	dems2 := "Dhemas Divoegara"
 	fmt.Println(dems2)
+	// multi variabel 
+	var (
+		namaku  = "Dhemas"
+		namaLengkap = "Dhemas Dhiyanugraha"
+
+	)
+	fmt.Println(namaku)
+	fmt.Println(namaLengkap)
+
 }
