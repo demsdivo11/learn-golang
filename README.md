@@ -1,7 +1,7 @@
 "# Learning Golang Langueage"
 
 *DAY 1*
-- LEARNING TIPE DATA
+# LEARNING TIPE DATA
  - BOOLEAN
   - NUMBER
   - STRING
