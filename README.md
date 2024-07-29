@@ -1,4 +1,4 @@
-"# Learning Golang Langueage"
+# Learning Golang Langueage
 
 # DAY 1
 ## LEARNING TIPE DATA
